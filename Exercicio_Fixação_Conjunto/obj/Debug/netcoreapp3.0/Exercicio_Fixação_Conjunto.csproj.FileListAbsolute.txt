@@ -1,0 +1,11 @@
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Conjunto\Exercicio_Fixação_Conjunto\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Conjunto.exe
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Conjunto\Exercicio_Fixação_Conjunto\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Conjunto.deps.json
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Conjunto\Exercicio_Fixação_Conjunto\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Conjunto.runtimeconfig.json
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Conjunto\Exercicio_Fixação_Conjunto\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Conjunto.runtimeconfig.dev.json
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Conjunto\Exercicio_Fixação_Conjunto\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Conjunto.dll
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Conjunto\Exercicio_Fixação_Conjunto\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Conjunto.pdb
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Conjunto\Exercicio_Fixação_Conjunto\obj\Debug\netcoreapp3.0\Exercicio_Fixação_Conjunto.csprojAssemblyReference.cache
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Conjunto\Exercicio_Fixação_Conjunto\obj\Debug\netcoreapp3.0\Exercicio_Fixação_Conjunto.AssemblyInfoInputs.cache
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Conjunto\Exercicio_Fixação_Conjunto\obj\Debug\netcoreapp3.0\Exercicio_Fixação_Conjunto.AssemblyInfo.cs
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Conjunto\Exercicio_Fixação_Conjunto\obj\Debug\netcoreapp3.0\Exercicio_Fixação_Conjunto.dll
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Conjunto\Exercicio_Fixação_Conjunto\obj\Debug\netcoreapp3.0\Exercicio_Fixação_Conjunto.pdb
